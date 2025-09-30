@@ -45,8 +45,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,git" />
   <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="40" alt="Kali Linux"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Metasploit_logo.png" width="40" alt="Metasploit"/>
-  <img src="https://www.wireshark.org/assets/icons/wireshark.svg" width="40" alt="Wireshark"/>
+  <img src="https://avatars.githubusercontent.com/u/684879?s=200&v=4" width="40" alt="Metasploit"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wireshark_icon.svg" width="40" alt="Wireshark"/>
 </p>
 
 ---
