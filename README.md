@@ -1,19 +1,16 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Iheb</h1>
-<h3 align="center">💻 Passionate Frontend Developer from Tunisia 🇹🇳</h3>
+<h3 align="center">💻 Passionate Frontend Developer & Future Cybersecurity Engineer from Tunisia 🇹🇳</h3>
 
 ---
 
-<!-- Profile Views & Trophies -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ihebdhib&label=Profile%20views&color=0e75b6&style=flat" alt="ihebdhib" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ihebdhib&theme=gruvbox&margin-w=10&margin-h=10" alt="trophies"/>
-  </a>
-</p>
+### 👨‍💻 About Me
+- 🌱 I’m currently learning **Symfony, React, and advanced frontend development**
+- 🎯 My main goal is to become a **Cybersecurity Engineer**
+- 🔐 Interested in **ethical hacking, penetration testing, and system security**
+- 💡 I love building **modern web apps** and solving coding challenges
+- 🎨 I also enjoy **UI/UX design** with Figma and Illustrator
+- ⚡ Fun fact: *I debug faster with music on 🎶*
 
 ---
 
@@ -44,6 +41,16 @@
 
 ---
 
+### 🛡️ Security Tools & Interests
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,git" />
+  <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="40" alt="Kali Linux"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Metasploit_logo.png" width="40" alt="Metasploit"/>
+  <img src="https://www.wireshark.org/assets/icons/wireshark.svg" width="40" alt="Wireshark"/>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ihebdhib&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
@@ -55,5 +62,17 @@
 </p>
 
 ---
+<!-- Profile Views & Trophies -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ihebdhib&label=Profile%20views&color=0e75b6&style=flat" alt="ihebdhib" />
+</p>
 
-✨ _“Code is like humor. When you have to explain it, it’s bad.”_ ✨
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ihebdhib&theme=gruvbox&margin-w=10&margin-h=10" alt="trophies"/>
+  </a>
+</p>
+
+---
+
+✨ _“Security is not a product, but a process.”_ ✨
