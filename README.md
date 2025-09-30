@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Iheb</h1>
-<h3 align="center">💻 Passionate Frontend Developer & Future Cybersecurity Engineer from Tunisia 🇹🇳</h3>
+<h3 align="center">💻 Passionate full stack Developer & Future Cybersecurity Engineer from Tunisia 🇹🇳</h3>
 
 ---
 
