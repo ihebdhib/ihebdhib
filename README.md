@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 I’m currently learning **Symfony, React, and advanced frontend development**
+- 🌱 I’m currently learning **Symfony, React, and advanced frontend and backend development**
 - 🎯 My main goal is to become a **Cybersecurity Engineer**
 - 🔐 Interested in **ethical hacking, penetration testing, and system security**
 - 💡 I love building **modern web apps** and solving coding challenges
